@@ -58,6 +58,6 @@ Cards highlighting critical metrics such as:
 
 ## ✅ Conclusion
 
-Data Jobs Dashboard demonstrates how Power BI can transform large-scale job posting data into a powerful, decision-support tool. By combining effective data modeling, insightful DAX calculations, and intuitive design, the dashboard enables users to efficiently explore job market trends and compensation insights—all within a streamlined, single-page experience.
+By combining effective data modeling, insightful DAX calculations, and intuitive design, the dashboard enables users to efficiently explore job market trends and compensation insights—all within a streamlined, single-page experience.
 
 This project highlights strong analytical thinking, business-focused visualization, and practical Power BI expertise suitable for real-world data analytics applications.
