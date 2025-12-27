@@ -2,7 +2,7 @@
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=poppin&size=40&pause=1000&color=CACACA&center=true&vCenter=true&width=435&lines=Data+Jobs+Dashboard)](https://git.io/typing-svg)
 
-![](Static\dashboard.gif)
+![](static/dashboard.gif)
 
 ## 📌 Project Overview
 
